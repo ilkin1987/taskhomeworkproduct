@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.exe
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.deps.json
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.runtimeconfig.dev.json
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.dll
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\bin\Debug\netcoreapp3.1\TaskHomework.pdb
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.dll
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.pdb
+C:\Users\ACER\OneDrive\Desktop\TaskHomework\obj\Debug\netcoreapp3.1\TaskHomework.genruntimeconfig.cache
